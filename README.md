@@ -2,7 +2,7 @@ Tealium Android Library - 4.1.4 &amp; 4.1.4c
 =====================================
 
 **********************
-![](../../wiki/images/warning_30.png) Upgrading from an earlier version? See the [Upgrade Notice](#upgrade-notice)
+![](../../wiki/images/warning_30.png) This library has been replaced by the version 5.x [tealium-android](https://github.com/tealium/tealium-android) repository. This version can still be used with Tealium services but no further development or bug fixes are planned. 
 **********************
 
 ### Brief ###
@@ -369,5 +369,3 @@ void onPause(Activity)
 --------------------------------------------
 
 Copyright (C) 2012-2015, Tealium Inc.
-
-
